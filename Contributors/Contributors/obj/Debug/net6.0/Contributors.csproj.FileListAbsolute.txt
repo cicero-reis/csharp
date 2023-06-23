@@ -1,0 +1,15 @@
+C:\temp\code\Contributors\Contributors\bin\Debug\net6.0\Contributors.exe
+C:\temp\code\Contributors\Contributors\bin\Debug\net6.0\Contributors.deps.json
+C:\temp\code\Contributors\Contributors\bin\Debug\net6.0\Contributors.runtimeconfig.json
+C:\temp\code\Contributors\Contributors\bin\Debug\net6.0\Contributors.dll
+C:\temp\code\Contributors\Contributors\bin\Debug\net6.0\Contributors.pdb
+C:\temp\code\Contributors\Contributors\obj\Debug\net6.0\Contributors.csproj.AssemblyReference.cache
+C:\temp\code\Contributors\Contributors\obj\Debug\net6.0\Contributors.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\code\Contributors\Contributors\obj\Debug\net6.0\Contributors.AssemblyInfoInputs.cache
+C:\temp\code\Contributors\Contributors\obj\Debug\net6.0\Contributors.AssemblyInfo.cs
+C:\temp\code\Contributors\Contributors\obj\Debug\net6.0\Contributors.csproj.CoreCompileInputs.cache
+C:\temp\code\Contributors\Contributors\obj\Debug\net6.0\Contributors.dll
+C:\temp\code\Contributors\Contributors\obj\Debug\net6.0\refint\Contributors.dll
+C:\temp\code\Contributors\Contributors\obj\Debug\net6.0\Contributors.pdb
+C:\temp\code\Contributors\Contributors\obj\Debug\net6.0\Contributors.genruntimeconfig.cache
+C:\temp\code\Contributors\Contributors\obj\Debug\net6.0\ref\Contributors.dll
