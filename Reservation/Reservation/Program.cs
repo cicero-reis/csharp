@@ -44,7 +44,6 @@ namespace Hotel
             {
                 Console.WriteLine("Unexpected error: " + e.Message);
             }
-
         }
     }
 }
