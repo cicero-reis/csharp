@@ -1,0 +1,15 @@
+C:\temp\code\PaymentService\App\bin\Debug\net6.0\App.exe
+C:\temp\code\PaymentService\App\bin\Debug\net6.0\App.deps.json
+C:\temp\code\PaymentService\App\bin\Debug\net6.0\App.runtimeconfig.json
+C:\temp\code\PaymentService\App\bin\Debug\net6.0\App.dll
+C:\temp\code\PaymentService\App\bin\Debug\net6.0\App.pdb
+C:\temp\code\PaymentService\App\obj\Debug\net6.0\App.csproj.AssemblyReference.cache
+C:\temp\code\PaymentService\App\obj\Debug\net6.0\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\code\PaymentService\App\obj\Debug\net6.0\App.AssemblyInfoInputs.cache
+C:\temp\code\PaymentService\App\obj\Debug\net6.0\App.AssemblyInfo.cs
+C:\temp\code\PaymentService\App\obj\Debug\net6.0\App.csproj.CoreCompileInputs.cache
+C:\temp\code\PaymentService\App\obj\Debug\net6.0\App.dll
+C:\temp\code\PaymentService\App\obj\Debug\net6.0\refint\App.dll
+C:\temp\code\PaymentService\App\obj\Debug\net6.0\App.pdb
+C:\temp\code\PaymentService\App\obj\Debug\net6.0\App.genruntimeconfig.cache
+C:\temp\code\PaymentService\App\obj\Debug\net6.0\ref\App.dll
