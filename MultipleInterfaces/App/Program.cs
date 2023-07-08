@@ -21,7 +21,6 @@ namespace App
             c.ProcessDoc("My dissertation");
             c.Print("My dissertation");
             Console.WriteLine(c.Scan());
-
         }
     }
 }
